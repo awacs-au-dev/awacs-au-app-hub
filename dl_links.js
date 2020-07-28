@@ -1,2 +1,2 @@
-let iosLink = "https://i.diawi.com/qMc7qp";
+let iosLink = "https://i.diawi.com/P6CGTd";
 let androidLink = "https://i.diawi.com/qGNR1K";
