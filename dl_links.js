@@ -1,2 +1,2 @@
-let iosLink = "https://awacs-au-dev.github.io/awacs-au-app-hub/";
+let iosLink = "https://i.diawi.com/HHUySi";
 let androidLink = "https://i.diawi.com/FJsdUh";
